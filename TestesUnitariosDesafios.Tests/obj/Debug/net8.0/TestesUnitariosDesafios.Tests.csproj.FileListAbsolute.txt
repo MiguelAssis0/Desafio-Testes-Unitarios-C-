@@ -103,3 +103,4 @@ D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafios.Tests\obj\
 D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafios.Tests\obj\Debug\net8.0\TestesUnitariosDesafios.Tests.pdb
 D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafios.Tests\obj\Debug\net8.0\TestesUnitariosDesafios.Tests.genruntimeconfig.cache
 D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafios.Tests\obj\Debug\net8.0\ref\TestesUnitariosDesafios.Tests.dll
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafios.Tests\obj\Debug\net8.0\TestesUnitariosDesafios.Tests.sourcelink.json

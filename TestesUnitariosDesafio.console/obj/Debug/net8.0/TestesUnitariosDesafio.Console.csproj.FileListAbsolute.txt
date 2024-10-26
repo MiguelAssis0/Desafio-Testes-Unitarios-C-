@@ -12,3 +12,4 @@ D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj
 D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\TestesUnitariosDesafio.Console.pdb
 D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\TestesUnitariosDesafio.Console.genruntimeconfig.cache
 D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\ref\TestesUnitariosDesafio.Console.dll
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\TestesUnitariosDesafio.Console.sourcelink.json
