@@ -1,0 +1,14 @@
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\bin\Debug\net8.0\TestesUnitariosDesafio.Console.exe
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\bin\Debug\net8.0\TestesUnitariosDesafio.Console.deps.json
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\bin\Debug\net8.0\TestesUnitariosDesafio.Console.runtimeconfig.json
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\bin\Debug\net8.0\TestesUnitariosDesafio.Console.dll
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\bin\Debug\net8.0\TestesUnitariosDesafio.Console.pdb
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\TestesUnitariosDesafio.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\TestesUnitariosDesafio.Console.AssemblyInfoInputs.cache
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\TestesUnitariosDesafio.Console.AssemblyInfo.cs
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\TestesUnitariosDesafio.Console.csproj.CoreCompileInputs.cache
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\TestesUnitariosDesafio.Console.dll
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\refint\TestesUnitariosDesafio.Console.dll
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\TestesUnitariosDesafio.Console.pdb
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\TestesUnitariosDesafio.Console.genruntimeconfig.cache
+D:\programming\bootcamp\testeUnitárioDesafio\TestesUnitariosDesafio.console\obj\Debug\net8.0\ref\TestesUnitariosDesafio.Console.dll
